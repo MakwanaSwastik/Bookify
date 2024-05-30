@@ -1,4 +1,4 @@
-```markdown
+
 # Bookify
 
 Bookify is an Android mobile application developed in Kotlin that provides a seamless PDF book reading experience. It offers features like bookmarking, text highlighting, and in-document search, leveraging modern API integrations for robust performance and a user-friendly interface.
@@ -11,7 +11,6 @@ Bookify is an Android mobile application developed in Kotlin that provides a sea
 
 ## Dependencies
 
-```gradle
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
     id 'com.android.application' version '7.4.0' apply false
@@ -73,9 +72,3 @@ implementation 'com.google.firebase:firebase-database-ktx'
 ### GitHub
 - [GitHub - FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp/tree/master)
 - [GitHub - SpringScrollHelper.kt](https://github.com/KaustubhPatange/android-animation-samples/blob/master/SpringBack-RecyclerView/app/src/main/java/com/kpstv/dampingrecyclerview/ui/helpers/SpringScrollHelper.kt)
-
-## Credits
-Special thanks to all the authors of the resources and libraries that made this project possible.
-```
-
-This README.md file provides a clear and professional overview of the Bookify project, highlighting its features, dependencies, and learning resources in an organized manner.
