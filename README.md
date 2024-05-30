@@ -1,7 +1,5 @@
 
 # Bookify
-[![PDF Book App Tutorial](https://img.youtube.com/vi/Rh-Nhsd2g8w/maxresdefault.jpg)](https://youtu.be/Rh-Nhsd2g8w)
-
 Here is list of dependencies you can use
 ``` gradle
     // Top-level build file where you can add configuration options common to all sub-projects/modules.
@@ -60,11 +58,3 @@ Here are the credits & learning material
 - Github
     - [GitHub - FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp/tree/master)
     - [GitHub - SpringScrollHelper.kt](https://github.com/KaustubhPatange/android-animation-samples/blob/master/SpringBack-RecyclerView/app/src/main/java/com/kpstv/dampingrecyclerview/ui/helpers/SpringScrollHelper.kt)
- 
-  ## My Socials
-
-You can give my socials a try
-
-[Instagram 📷](https://www.instagram.com/athar_android/)
-[Github 👨‍💻](https://github.com/CodeWithAthari) 
-[Twitter 💬](https://twitter.com/ZamanAthari)
