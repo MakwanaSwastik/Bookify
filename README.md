@@ -2,6 +2,8 @@
 
 Bookify is an Android mobile application developed in Kotlin that provides users with a seamless PDF book reading experience. It offers a range of features to enhance reading and navigation within PDF documents, leveraging modern API integrations for robust performance and a user-friendly interface.
 
+[![Download Bookify](https://img.shields.io/badge/Download-Bookify-blue.svg)](https://github.com/MakwanaSwastik/Bookify/raw/master/app/Bookify.apk)
+
 ## Features
 
 - **Bookmarking:** Save your place in any PDF to easily return to it later.
